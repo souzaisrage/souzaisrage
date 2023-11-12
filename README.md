@@ -1,3 +1,3 @@
 - 👋 Hey fk u
-- 👀 i hate this dude @NotZeetaa
+- 👀 i hate this dudes @NotZeetaa @L31RB4
 
