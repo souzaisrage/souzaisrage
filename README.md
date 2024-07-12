@@ -1,3 +1,3 @@
-- 👋 Hey fk u
-- 👀 i hate this dudes @NotZeetaa @L31RB4
+- 👋 dog zeta
+- 👀 zeta es dog (vai mandar print no zap)
 
