@@ -12,5 +12,5 @@
 * Experience: System applications, website creation, and process automation scripts
 
 ## 📁 Featured Projects
-**DriverXpress**
+* **DriverXpress**
 
