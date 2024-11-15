@@ -12,5 +12,5 @@
 * Experience: System applications, website creation, and process automation scripts
 
 ## 📁 Featured Projects
-**DriverXpress**: A web application that simplifies updating and installing drivers for a computer's optimal performance. The platform centralizes driver installations, making the process faster and easier.
+**DriverXpress**
 
