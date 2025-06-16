@@ -1,57 +1,45 @@
-# **💀 Hello! I'm Souza**  
+# 💀 Hey, I'm souzaisrage! 
 
-## 👻 About Me  
-
-- 💻 Exploring software development and system management.  
-- 📚 Technical student, focused on advancing my knowledge in programming and software engineering.  
-- 🛠 Working on my project **WinWeak**, an app to simplify the download and update process for essential computer drivers and tweak your system.  
-
----
-
-## 📁 Featured Projects  
-
-- **WinWeak**  
-  - A tool to streamline driver downloads and system optimizations.  
+**Windows App Developer | Open-Source Enthusiast**  
+[![Instagram](https://img.shields.io/badge/Follow_me-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/x0.souza) 
+[![LinkedIn](https://img.shields.io/badge/Connect-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-souza-422b7a34a/)
+![Profile Views](https://komarev.com/ghpvc/?username=NotZeetaa&style=flat-square&color=blueviolet)
 
 ---
 
-### 🌟 GitHub Stats  
+## 🛠️ Current Projects
 
-#### Souza's GitHub Stats  
-- **Total Stars Earned:** [Your Star Count]  
-- **Total Commits:** [Your Commit Count]  
-- **Total PRs:** [Your PR Count]  
-- **Total Issues:** [Your Issue Count]  
-- **Contributed to (last year):** [Your Contribution Count]  
-
-#### Most Used Languages  
-- [Your Primary Language]: [Percentage]%  
-- [Secondary Language]: [Percentage]%  
-
-*(Replace placeholders with your actual stats or remove this section if not applicable.)*  
+[![WinWeak](https://img.shields.io/badge/🔧_Nexus_Kernel-000?style=for-the-badge&logo=android&logoColor=white)](https://github.com/souzaisrage/winweak-app)
 
 ---
 
-### ☕ Support My Work  
+## 📊 GitHub Stats & Contributions
 
-If you find my projects useful, consider supporting me:  
+<div align="center">
+  
+### Activity Overview
+[![NotZeetaa's Stats](https://github-readme-stats.vercel.app/api?username=souzaisrage&show_icons=true&title_color=bb2acf&icon_color=bb2acf&text_color=9f9f9f&bg_color=00000000&hide_border=true&count_private=true&include_all_commits=true)](https://github.com/souzaisrage)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=souzaisrage&layout=compact&title_color=bb2acf&text_color=9f9f9f&bg_color=00000000&hide_border=true&langs_count=8)](https://github.com/souzaisrage)
 
-- **BUY ME A COFFEE**  
-- **SPONSOR**  
+### Total Contributions
+[![Total Commits](https://img.shields.io/badge/dynamic/json?label=Total%20Commits&query=total&url=https://api.github-star-counter.workers.dev/user/souzaisrage&color=bb2acf&style=for-the-badge&logo=git)](https://github.com/souzaisrage)
+  
+### Contribution Graph
+[![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=souzaisrage&theme=github-compact&hide_border=true&area=true&custom_title=My%20Contributions)](https://github.com/souzaisrage)
 
----
-
-### 🛠️ Tech Stack  
-
-- **C++**  
-- **Windows/Linux**  
-- **Git**  
-- **System Tools**  
-
-*(Customize with your preferred technologies.)*  
+</div>
 
 ---
 
-📫 **Connect with me:**  
-[Instagram] | [LinkedIn] | [Telegram]  
-*(Add your social links or other contact methods.)*  
+## ☕ Support My Work
+
+If you appreciate my projects, consider fueling my development journey:
+
+[![Donate with PayPal](https://img.shields.io/badge/Donate-PayPal-blue?style=for-the-badge&logo=paypal)](https://paypal.me/Souzawow)
+
+---
+
+## 🔧 Tech Stack
+![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/-C#-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
