@@ -9,7 +9,7 @@
 
 ## 🛠️ Current Projects
 
-[![WinWeak](https://img.shields.io/badge/🔧_Nexus_Kernel-000?style=for-the-badge&logo=android&logoColor=white)](https://github.com/souzaisrage/winweak-app)
+[![WinWeak](https://img.shields.io/badge/🔧WinWeak-000?style=for-the-badge&logo=android&logoColor=white)](https://github.com/souzaisrage/winweak-app)
 
 ---
 
