@@ -3,7 +3,7 @@
 **Windows App Developer | Open-Source Enthusiast**  
 [![Instagram](https://img.shields.io/badge/Follow_me-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/x0.souza) 
 [![LinkedIn](https://img.shields.io/badge/Connect-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-souza-422b7a34a/)
-![Profile Views](https://komarev.com/ghpvc/?username=NotZeetaa&style=flat-square&color=blueviolet)
+![Profile Views](https://komarev.com/ghpvc/?username=souzaisrage&style=flat-square&color=blueviolet)
 
 ---
 
