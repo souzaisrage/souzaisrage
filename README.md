@@ -2,7 +2,7 @@
 
 **Windows App Developer | Open-Source Enthusiast**  
 [![Instagram](https://img.shields.io/badge/Follow_me-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/x0.souza) 
-[![PayPal](https://img.shields.io/badge/Donate-PayPal-blue-0077B5?style=flat&logo=paypal&logoColor=white)](https://www.paypal.com/paypalme/Souzawow)
+[![Donate with PayPal](https://img.shields.io/badge/Donate-PayPal-blue?style=for-the-badge&logo=paypal)](https://paypal.me/Souzawow)
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?logo=spotify&logoColor=white)](https://open.spotify.com/user/lf15fnqsamlhd6ukzg9h4w328?si=03e18b4f0e374d4d)
 ![Profile Views](https://komarev.com/ghpvc/?username=souzaisrage&style=flat-square&color=blueviolet)
 
