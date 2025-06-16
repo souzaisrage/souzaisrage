@@ -9,7 +9,7 @@
 
 ## 🛠️ Current Projects
 
-[![WinWeak](https://img.shields.io/badge/🔧WinWeak-000?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/souzaisrage/winweak-app)
+[![WinWeak](https://img.shields.io/badge/🔧WinWeak-000?style=for-the-badge&logo=windows11&logoColor=white)](https://github.com/souzaisrage/winweak-app)
 
 ---
 
@@ -41,5 +41,6 @@ If you appreciate my projects, consider fueling my development journey:
 
 ## 🔧 Tech Stack
 [![.NET](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=fff)](#)
+[![React Native](https://img.shields.io/badge/React_Native-%2320232a.svg?logo=react&logoColor=%2361DAFB)](#)
 ![C#](https://img.shields.io/badge/-C#-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
