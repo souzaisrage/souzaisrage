@@ -2,7 +2,8 @@
 
 **Windows App Developer | Open-Source Enthusiast**  
 [![Instagram](https://img.shields.io/badge/Follow_me-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/x0.souza) 
-[![LinkedIn](https://img.shields.io/badge/Connect-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-souza-422b7a34a/)
+[![PayPal](https://img.shields.io/badge/Connect-LinkedIn-0077B5?style=flat&logo=paypal&logoColor=white)](https://www.linkedin.com/in/rafael-souza-422b7a34a/)
+[![Spotify](https://img.shields.io/badge/Spotify-1ED760?logo=spotify&logoColor=white)](https://open.spotify.com/user/lf15fnqsamlhd6ukzg9h4w328?si=03e18b4f0e374d4d)
 ![Profile Views](https://komarev.com/ghpvc/?username=souzaisrage&style=flat-square&color=blueviolet)
 
 ---
@@ -18,7 +19,7 @@
 <div align="center">
   
 ### Activity Overview
-[![NotZeetaa's Stats](https://github-readme-stats.vercel.app/api?username=souzaisrage&show_icons=true&title_color=bb2acf&icon_color=bb2acf&text_color=9f9f9f&bg_color=00000000&hide_border=true&count_private=true&include_all_commits=true)](https://github.com/souzaisrage)
+[![souzaisrage's Stats](https://github-readme-stats.vercel.app/api?username=souzaisrage&show_icons=true&title_color=bb2acf&icon_color=bb2acf&text_color=9f9f9f&bg_color=00000000&hide_border=true&count_private=true&include_all_commits=true)](https://github.com/souzaisrage)
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=souzaisrage&layout=compact&title_color=bb2acf&text_color=9f9f9f&bg_color=00000000&hide_border=true&langs_count=8)](https://github.com/souzaisrage)
 
 ### Total Contributions
@@ -42,5 +43,7 @@ If you appreciate my projects, consider fueling my development journey:
 ## 🔧 Tech Stack
 [![.NET](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=fff)](#)
 [![React Native](https://img.shields.io/badge/React_Native-%2320232a.svg?logo=react&logoColor=%2361DAFB)](#)
-![C#](https://img.shields.io/badge/-C#-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+[![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white)](#)
+[![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)](#)
+[![NuGet](https://img.shields.io/badge/NuGet-004880?logo=nuget&logoColor=fff)](#)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
