@@ -9,7 +9,7 @@
 
 ## 🛠️ Current Projects
 
-[![WinWeak](https://img.shields.io/badge/🔧WinWeak-000?style=for-the-badge&logo=windows11&logoColor=white)](https://github.com/souzaisrage/winweak-app)
+[![WinWeak](https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white)](https://github.com/souzaisrage/winweak-app)
 
 ---
 
