@@ -40,6 +40,6 @@ If you appreciate my projects, consider fueling my development journey:
 ---
 
 ## 🔧 Tech Stack
-![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/-C#-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+[![.NET](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=fff)](#))
+![C#](https://img.shields.io/badge/-C#-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
